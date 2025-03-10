@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @heckermonn, a student currently studying at Algonquin College
 - 👀 I’m interested in Full-Stack Development, with a focus on Front-End libraries
-- 🌱 I’m currently learning Java, JS, PHP, HTML5, CSS3, Python, Oracle SQL Server, and MongoDB.
-- 💞 I’m looking to collaborate on anything!
+- Front-End: HTML, CSS, JS, PHP
+- Back-End: MS SQL Server, Oracle SQL Server
+- I’m looking to collaborate on anything!
 
 
 <!---
